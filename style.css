@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: #25D366;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #34b8f167;
+    display: inline-flex;
+    flex-flow: column wrap;
+    gap: 1rem;
+    padding: 2rem 4rem;
+    border-radius: 1rem;
+    margin-top: 3rem;
+
+}
